@@ -196,6 +196,18 @@ a:focus {
     }
 }
 
+/*
+    Objects: Container
+    ---
+    Creates a horizontal container that sets de global max-width
+*/
+
+.o-container {
+    margin: auto;
+    max-width: 90em;
+}
+
+
 
 /*------------------------------------*\
   #COMPONENTS
