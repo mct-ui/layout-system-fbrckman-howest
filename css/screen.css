@@ -351,6 +351,11 @@ a:focus {
   #UTILITIES
 \*------------------------------------*/
 
+.u-width-auto {
+    width: auto;
+    display: inline-flex;
+}
+
 /*
     Utilities: max-width
     ---
